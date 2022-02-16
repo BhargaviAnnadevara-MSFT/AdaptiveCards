@@ -9,7 +9,7 @@ ms.topic: article
 
 # ReactNative Renderer
 
-A [community-supported](https://github.com/microsoft/AdaptiveCards/blob/main/SUPPORT.MD) ReactNative renderer for Adaptive Cards, maintained by [BigThinkCode](https://www.bigthinkcode.com).
+A [community-supported](https://github.com/microsoft/AdaptiveCards/blob/main/SUPPORT.md) ReactNative renderer for Adaptive Cards, maintained by [BigThinkCode](https://www.bigthinkcode.com).
 
 > [!IMPORTANT]
 >
